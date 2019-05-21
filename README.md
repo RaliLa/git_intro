@@ -1,6 +1,6 @@
 # git_intro
 An example repository for introduction **Git** training.
-
+notes
 - you can add bullets
   - and sub-bullets
 -[and link](https://bio.it.embl.de)
