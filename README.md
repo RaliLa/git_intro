@@ -2,13 +2,13 @@
 An example repository for introduction **Git** training.
 
 - you can add bullets
- - and sub-bullets
+  - and sub-bullets
 -[and link](https://bio.it.embl.de)
-- *italics* and ~~strikehhrought~~
+-  *italics* and ~~strikehhrought~~
 
-'code backticks'
+`code backticks`
 
-''' Python
+``` Python
 for file in filenames:
 print(file)
-'''
+```
