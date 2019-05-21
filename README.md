@@ -1,3 +1,10 @@
+#instruction
+-chop onion
+-cut open avocado and revove stones
+-scoop out flesh
+
+
+
 # git_intro
 An example repository for introduction **Git** training.
 notes
